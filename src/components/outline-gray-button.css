@@ -1,0 +1,38 @@
+.outline-gray-button-container {
+  display: flex;
+  position: relative;
+}
+.outline-gray-button-button {
+  color: var(--dl-color-secondary-200);
+  outlinr: none;
+  transition: all .15s ease-in;
+  padding-top: var(--dl-space-space-triplequarterunit);
+  border-color: var(--dl-color-secondary-400);
+  padding-left: var(--dl-space-space-unitandahalfunit);
+  border-radius: 1.875rem;
+  padding-right: var(--dl-space-space-unitandahalfunit);
+  padding-bottom: var(--dl-space-space-triplequarterunit);
+  background-color: var(--dl-color-secondary-600);
+}
+.outline-gray-button-button:hover {
+  cursor: pointer;
+  transform: scale(1.02);
+}
+.outline-gray-button-root-class-name {
+  margin-bottom: auto;
+}
+.outline-gray-button-root-class-name1 {
+  margin-top: var(--dl-space-space-tripleunit);
+}
+.outline-gray-button-root-class-name2 {
+  margin-top: var(--dl-space-space-tripleunit);
+}
+.outline-gray-button-root-class-name3 {
+  margin-top: var(--dl-space-space-tripleunit);
+}
+.outline-gray-button-root-class-name4 {
+  margin-top: var(--dl-space-space-tripleunit);
+}
+.outline-gray-button-root-class-name5 {
+  margin-top: var(--dl-space-space-tripleunit);
+}
