@@ -272,14 +272,17 @@ const Home = (props) => {
             <ListItem
               title="1. Running the Latest Minecraft Version 1.19"
               description="HighSkyMC always updates to the latest patch! This ensures the server is fast and stable, with all the new features added."
+              new_prop="1. Newest Features Available"
             ></ListItem>
             <ListItem
               title="2. Custom Biomes that DONT Lag"
               description="Many custom biome mods negatively hit the performance of your computer and the server. We only use mods that don't."
+              new_prop="2. Highly Optimized Mods"
             ></ListItem>
             <ListItem
               title="3.  Better and Livelier Ambience"
               description="Everything from torches, to leaves, to the bushes you see, are all made better. We also made sure to support shaders!"
+              new_prop="3. New and Improved"
             ></ListItem>
           </div>
         </div>
@@ -289,14 +292,17 @@ const Home = (props) => {
             <ListItem
               title="1. Proximity Voicechat"
               description="Is your friend too far away? Just shout. That is the more realistic way!"
+              new_prop="1. Proximity Voice Chat"
             ></ListItem>
             <ListItem
               title="2. Well Moderated"
               description='While the rules are strictly enforced, the rules are very lenient. What ever you think a "good person" is will most likely pass. '
+              new_prop="2. Rules are just Guidelines"
             ></ListItem>
             <ListItem
               title="3. Accommodates all your Friends"
               description="Literally bring all your friends. The server can handle it. All of them, your mom, your dad, your uncle's janitor's nephew, and your dog."
+              new_prop="3. Unlimited Players"
             ></ListItem>
           </div>
           <div className="home-container21">
