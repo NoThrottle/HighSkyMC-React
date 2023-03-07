@@ -164,7 +164,7 @@
   font-style: normal;
   font-weight: 700;
 }
-.main-rules-text028 {
+.main-rules-text032 {
   color: var(--dl-color-secondary-100);
   width: 100%;
   height: 100%;
@@ -173,7 +173,7 @@
   padding-right: var(--dl-space-space-doubleunit);
   padding-bottom: var(--dl-space-space-unit);
 }
-.main-rules-text029 {
+.main-rules-text033 {
   font-style: normal;
   font-weight: 700;
 }
@@ -189,14 +189,14 @@
   flex-direction: column;
   justify-content: space-between;
 }
-.main-rules-text038 {
+.main-rules-text046 {
   color: var(--dl-color-secondary-100);
   width: 100%;
   height: 100%;
   padding-left: var(--dl-space-space-doubleunit);
   padding-right: var(--dl-space-space-doubleunit);
 }
-.main-rules-text040 {
+.main-rules-text048 {
   color: var(--dl-color-secondary-100);
   width: 100%;
   height: 100%;
@@ -206,31 +206,11 @@
   padding-right: var(--dl-space-space-doubleunit);
   padding-bottom: var(--dl-space-space-unit);
 }
-.main-rules-text041 {
+.main-rules-text049 {
   font-style: normal;
   font-weight: 700;
 }
-.main-rules-text049 {
-  font-style: normal;
-  font-weight: 300;
-}
-.main-rules-text051 {
-  font-style: normal;
-  font-weight: 300;
-}
-.main-rules-text052 {
-  font-style: normal;
-  font-weight: 300;
-}
-.main-rules-text053 {
-  font-style: normal;
-  font-weight: 300;
-}
 .main-rules-text054 {
-  font-style: normal;
-  font-weight: 300;
-}
-.main-rules-text055 {
   font-style: normal;
   font-weight: 300;
 }
@@ -246,34 +226,32 @@
   font-style: normal;
   font-weight: 300;
 }
-.main-rules-text068 {
+.main-rules-text059 {
   font-style: normal;
   font-weight: 300;
 }
-.main-rules-text077 {
+.main-rules-text060 {
   font-style: normal;
   font-weight: 300;
 }
-.main-rules-text087 {
+.main-rules-text061 {
   font-style: normal;
   font-weight: 300;
 }
-.main-rules-text088 {
+.main-rules-text072 {
   font-style: normal;
   font-weight: 300;
 }
-.main-rules-text093 {
-  color: var(--dl-color-secondary-100);
-  width: 100%;
-  height: 100%;
-  padding-top: var(--dl-space-space-unit);
-  padding-left: var(--dl-space-space-doubleunit);
-  padding-right: var(--dl-space-space-doubleunit);
-  padding-bottom: var(--dl-space-space-unit);
-}
-.main-rules-text094 {
+.main-rules-text081 {
   font-style: normal;
-  font-weight: 700;
+  font-weight: 300;
+}
+.main-rules-text098 {
+  font-style: normal;
+}
+.main-rules-text099 {
+  font-style: normal;
+  font-weight: 300;
 }
 .main-rules-text100 {
   font-style: normal;
@@ -283,35 +261,40 @@
   font-style: normal;
   font-weight: 300;
 }
-.main-rules-text102 {
-  font-style: normal;
-  font-weight: 300;
-}
-.main-rules-text103 {
-  font-style: normal;
-  font-weight: 300;
-}
-.main-rules-text104 {
-  font-style: normal;
-  font-weight: 300;
-}
 .main-rules-text105 {
-  font-style: normal;
-  font-weight: 300;
+  color: var(--dl-color-secondary-100);
+  width: 100%;
+  height: 100%;
+  padding-top: var(--dl-space-space-unit);
+  padding-left: var(--dl-space-space-doubleunit);
+  padding-right: var(--dl-space-space-doubleunit);
+  padding-bottom: var(--dl-space-space-unit);
 }
 .main-rules-text106 {
   font-style: normal;
-  font-weight: 300;
+  font-weight: 700;
 }
-.main-rules-text107 {
+.main-rules-text110 {
   font-style: normal;
   font-weight: 300;
 }
-.main-rules-text108 {
+.main-rules-text111 {
   font-style: normal;
   font-weight: 300;
 }
-.main-rules-text109 {
+.main-rules-text112 {
+  font-style: normal;
+  font-weight: 300;
+}
+.main-rules-text113 {
+  font-style: normal;
+  font-weight: 300;
+}
+.main-rules-text114 {
+  font-style: normal;
+  font-weight: 300;
+}
+.main-rules-text115 {
   font-style: normal;
   font-weight: 300;
 }
@@ -343,6 +326,30 @@
   font-style: normal;
   font-weight: 300;
 }
+.main-rules-text123 {
+  font-style: normal;
+  font-weight: 300;
+}
+.main-rules-text124 {
+  font-style: normal;
+  font-weight: 300;
+}
+.main-rules-text125 {
+  font-style: normal;
+  font-weight: 300;
+}
+.main-rules-text126 {
+  font-style: normal;
+  font-weight: 300;
+}
+.main-rules-text127 {
+  font-style: normal;
+  font-weight: 300;
+}
+.main-rules-text128 {
+  font-style: normal;
+  font-weight: 300;
+}
 .main-rules-text129 {
   font-style: normal;
   font-weight: 300;
@@ -352,6 +359,122 @@
   font-weight: 300;
 }
 .main-rules-text131 {
+  font-style: normal;
+  font-weight: 300;
+}
+.main-rules-text132 {
+  font-style: normal;
+  font-weight: 300;
+}
+.main-rules-text133 {
+  font-style: normal;
+  font-weight: 300;
+}
+.main-rules-text134 {
+  font-style: normal;
+  font-weight: 300;
+}
+.main-rules-text135 {
+  font-style: normal;
+  font-weight: 300;
+}
+.main-rules-text136 {
+  font-style: normal;
+  font-weight: 300;
+}
+.main-rules-text137 {
+  font-style: normal;
+  font-weight: 300;
+}
+.main-rules-text138 {
+  font-style: normal;
+  font-weight: 300;
+}
+.main-rules-text146 {
+  font-style: normal;
+  font-weight: 300;
+}
+.main-rules-text147 {
+  font-style: normal;
+  font-weight: 300;
+}
+.main-rules-text148 {
+  font-style: normal;
+  font-weight: 300;
+}
+.main-rules-text149 {
+  font-style: normal;
+  font-weight: 300;
+}
+.main-rules-text150 {
+  font-style: normal;
+  font-weight: 300;
+}
+.main-rules-text151 {
+  font-style: normal;
+  font-weight: 300;
+}
+.main-rules-text152 {
+  font-style: normal;
+  font-weight: 300;
+}
+.main-rules-text153 {
+  font-style: normal;
+  font-weight: 300;
+}
+.main-rules-text154 {
+  font-style: normal;
+  font-weight: 300;
+}
+.main-rules-text155 {
+  font-style: normal;
+  font-weight: 300;
+}
+.main-rules-text156 {
+  font-style: normal;
+  font-weight: 300;
+}
+.main-rules-text157 {
+  font-style: normal;
+  font-weight: 300;
+}
+.main-rules-text158 {
+  font-style: normal;
+  font-weight: 300;
+}
+.main-rules-text159 {
+  font-style: normal;
+  font-weight: 300;
+}
+.main-rules-text160 {
+  font-style: normal;
+  font-weight: 300;
+}
+.main-rules-text161 {
+  font-style: normal;
+  font-weight: 300;
+}
+.main-rules-text162 {
+  font-style: normal;
+  font-weight: 300;
+}
+.main-rules-text163 {
+  font-style: normal;
+  font-weight: 300;
+}
+.main-rules-text164 {
+  font-style: normal;
+  font-weight: 300;
+}
+.main-rules-text170 {
+  font-style: normal;
+  font-weight: 300;
+}
+.main-rules-text171 {
+  font-style: normal;
+  font-weight: 300;
+}
+.main-rules-text172 {
   font-style: normal;
   font-weight: 300;
 }
